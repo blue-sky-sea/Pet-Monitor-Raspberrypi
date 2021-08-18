@@ -10,6 +10,7 @@ AI-server.pdf
 1.Raspberrypi 4b for 3<br />
 2.Vision kit<br />
 3.sensors<br />
+BME280,HC-SR04..
 
 ##  Your step:follow[manual](https://drive.google.com/drive/folders/1nn_r1XoA7FMINGQU6EoJ_-fvZ6H1w3Ri)
 ### STEP1：download demo program in /DEMO
