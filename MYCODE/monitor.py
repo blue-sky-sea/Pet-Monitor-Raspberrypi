@@ -173,8 +173,7 @@ def vk_human_detect(interval):
         client.chat_postMessage(channel="myserver",text=msg_txt)
         
         #import slack
-        #slack_token='xoxb-247578397445-2237502186229-B8k0bYd6Osk9NYg4cZVaYMEx'
-        #slack_token='xoxb-247578397445-2237502186229-eld4CjB9UBfKCM0t2c5LHNOY'
+
         filepath='./'+now_time+ 'test.jpg'
         #time.sleep(5)
         #client = slack.WebClient(token=slack_token)
