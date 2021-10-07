@@ -1,0 +1,12 @@
+{
+	"APP":"ペット見守り",
+	"client_id":"RASPI_MON",
+	"work_dir":"/home/pi/Desktop/tmp/PetWatcher/MONITOR/work",
+	"interval": 10,
+	"storage_url":"http://192.168.11.10:3000/storage/",
+	"mqtt_broker":"192.168.11.11:1883",
+	"pic_size":[1920, 1080],
+	"topic_monitor":"MONITOR/monitor",
+	"topic_event":"MONITOR/event",
+	"cat_only":false
+}
